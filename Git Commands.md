@@ -1,5 +1,3 @@
-/markdown
-
 ## Git Commands
 
 `git pull`
